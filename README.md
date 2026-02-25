@@ -33,7 +33,6 @@ My research interests include:
 ---
 
 ## 🧪 Research Projects
-- NSFC: Physics-informed intelligent prediction of Al-AmO₂ sintering behavior
 - AI + Materials Genome
 - Smart Ocean perception
 
